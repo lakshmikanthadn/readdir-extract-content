@@ -1,5 +1,7 @@
 # READ DIR and EXTRACT Content
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lakshmikanthadn/readdir-extract-content.svg)](https://greenkeeper.io/)
+
 Utility to read the content from the json file and extracting some content from it.
 
 ## Build and Run
